@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 38900,
+      "id": 1,
+      "titulo": "Nike | Fútbol 11",
+      "img": "./img/01.jpg"
+    },
+    {
+      "precio": 27900,
+      "id": 2,
+      "titulo": "Sports | Basquet",
+      "img": "./img/02.jpg"
+    },
+    {
+      "precio": 41450,
+      "id": 3,
+      "titulo": "DRB | Handball",
+      "img": "./img/03.jpg"
+    },
+    {
+      "precio": 10830,
+      "id": 4,
+      "titulo": "Penn | Tennis (x3)",
+      "img": "./img/04.jpg"
+    },
+    {
+      "precio": 1999,
+      "id": 5,
+      "titulo": "Sensei | PingPong",
+      "img": "./img/05.jpg"
+    },
+    {
+      "precio": 55000,
+      "id": 6,
+      "titulo": "Topper | Rugby",
+      "img": "./img/06.jpg"
+    }
+  ]
